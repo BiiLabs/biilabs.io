@@ -69,7 +69,7 @@
   "faq-energy-title": "Why is DLT good for the energy industry?",
   "faq-energy-description": "The benefits of DLT can be concluded into: efficiency, transparency, and immutability. As for energy industry, it is urgent to find a better solution to record micro-transactions as well as handle nano-payments. Therefore, DLT tends to be s promising tool for energy fields. For example, more non-mainstream players are allowed to get involved in electricity trading with better recording system.",
   "faq-identity-title": "What’s the Digital Identity and TangleID?",
-  "faq-identity-description-1": "TangleID is a secure, easy-to-use system for self-sovereign identity, built on IOTA/Tangle. An identity can be cryptographically linked to offline data stores. Each identity is capable of storing the hash of an attributed data blob, whether on Google Cloud, Azure, AWS, Dropbox, etc., which is where all data associated with that identity is securely stored.",
+  "faq-identity-description-1": "TangleID is a secure, easy-to-use system for self-sovereign identity, built on IOTA/Tangle. An identity can be cryptographically linked to off-chain data stores. Each identity is capable of storing the hash of an attributed data blob, whether on Google Cloud, Azure, AWS, Dropbox, etc., which is where all data associated with that identity is securely stored.",
   "faq-identity-description-2": "Identities are capable of updating this file themselves, such as adding a profile photo or a friend, or they can also grant others temporary permission to read or write specific files. Since they can interact with Tangle network, TangleID identities can also control digital assets such as cryptocurrencies or other tokenized assets.",
 
   "partner-title": "Trusted By",
