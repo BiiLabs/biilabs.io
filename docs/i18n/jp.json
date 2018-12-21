@@ -10,7 +10,7 @@
 
   "navigate-home": "Home",
   "navigate-service": "Services",
-  "navigate-project": "Project",
+  "navigate-project": "Applications",
   "navigate-team": "Team",
   "navigate-faq": "FAQ",
   "navigate-parner": "Parners",
@@ -43,12 +43,12 @@
   "feature-marketplace-title": "データマーケットプレイス",
   "feature-marketplace-description": "分散型台帳技術を応用することで、ユーザーは個人情報や、それに付随するトレーサビリティを自身で管理できるようになります。ユーザーが個人データのオーナーシップを持つことで、そのデータを活用した新たな市場が生まれます。",
 
-  "usecase-title": "活用事例",
-  "usecase-description": "BiiLabsは、“信用経済”を分散型台帳技術によって再定義します。機器・機械・ドローン・電動自転車といった製品や、コンピュータのストレージや処理能力・WiFiの帯域幅といったリソースまでも、分散型台帳技術を応用する事で簡単にシェアビジネスとして生まれ変わらせることができます。",
-  "usecase-airbox-title": "Airbox/PM2.5 with DLT",
-  "usecase-airbox-description": "PM2.5による大気汚染は台湾や中国で深刻な問題となっています。その脅威に立ち向かうべく、地域住民によって結成されたLASSと呼ばれるコミュニティの社会活動を、私たちBiiLabsとNCKU DLT Labが共同で支援しました。センサーデータをクラウド上から分散型台帳システム上に移動させ、データインテグリティを保つためにセンサー用のサンドボックスを設計しました。",
-  "usecase-number-title": "Numbers",
-  "usecase-number-description": "BiiLabsは創業以来、イノベーションを加速すべく多くのパートナーと協働しています。",
+  "story-title": "活用事例",
+  "story-description": "BiiLabsは、“信用経済”を分散型台帳技術によって再定義します。機器・機械・ドローン・電動自転車といった製品や、コンピュータのストレージや処理能力・WiFiの帯域幅といったリソースまでも、分散型台帳技術を応用する事で簡単にシェアビジネスとして生まれ変わらせることができます。",
+  "story-airbox-title": "Airbox/PM2.5 with DLT",
+  "story-airbox-description": "PM2.5による大気汚染は台湾や中国で深刻な問題となっています。その脅威に立ち向かうべく、地域住民によって結成されたLASSと呼ばれるコミュニティの社会活動を、私たちBiiLabsとNCKU DLT Labが共同で支援しました。センサーデータをクラウド上から分散型台帳システム上に移動させ、データインテグリティを保つためにセンサー用のサンドボックスを設計しました。",
+  "story-number-title": "Numbers",
+  "story-number-description": "BiiLabsは創業以来、イノベーションを加速すべく多くのパートナーと協働しています。",
 
   "team-title": "メンバー",
   "team-description": "BiiLabsのメンバーは、世界中の人々にあらゆるソリューションを届けるため、2016年から活動しています。分散型台帳技術を応用し、活用事例を増やすことで、マシンエコノミーにイノベーションを起こします。",

@@ -10,7 +10,7 @@
 
   "navigate-home": "Home",
   "navigate-service": "Services",
-  "navigate-project": "Project",
+  "navigate-project": "Applications",
   "navigate-team": "Team",
   "navigate-faq": "FAQ",
   "navigate-parner": "Parners",
@@ -43,12 +43,12 @@
   "feature-marketplace-title": "Data Marketplace",
   "feature-marketplace-description": "DLT could achieve the need of self-sovereignty, which indicates that users could control their personal data as well as keep the traceability of private information at will. We can foresee that there would be a new marketplace of data.",
 
-  "usecase-title": "Use Case",
-  "usecase-description": "BiiLabs explores a new border of Trusted Economy by using distributed ledger technology. Through DLT, we enable products (e.g. Appliances, Tools, Drones, eBikes etc.) and resources (e.g. computer storage, computational power, WiFi bandwidth etc.) to be leasing-service effortlessly.",
-  "usecase-airbox-title": "Airbox/PM2.5 with DLT",
-  "usecase-airbox-description": "PM2.5 is a serious problem now happening every day in Taiwan and China. Therefore, the project of Location Aware Sensing System (LASS) is issued by the community. BiiLabs and NCKU DLT Lab offload the sensor data from the cloud to the DLT system. And will design the sandbox for the sensor to secure the data integrity.",
-  "usecase-number-title": "Numbers",
-  "usecase-number-description": "BiiLabs, as a blockchain missionary, are collaborating with more and more partners for the industry innovation.",
+  "story-title": "Application stories",
+  "story-description": "BiiLabs explores a new border of Trusted Economy by using distributed ledger technology. Through DLT, we enable products (e.g. Appliances, Tools, Drones, eBikes etc.) and resources (e.g. computer storage, computational power, WiFi bandwidth etc.) to be leasing-service effortlessly.",
+  "story-airbox-title": "Airbox/PM2.5 with DLT",
+  "story-airbox-description": "PM2.5 is a serious problem now happening every day in Taiwan and China. Therefore, the project of Location Aware Sensing System (LASS) is issued by the community. BiiLabs and NCKU DLT Lab offload the sensor data from the cloud to the DLT system. And will design the sandbox for the sensor to secure the data integrity.",
+  "story-number-title": "Numbers",
+  "story-number-description": "BiiLabs, as a blockchain missionary, are collaborating with more and more partners for the industry innovation.",
 
   "team-title": "Meet The Team",
   "team-description": "The BiiLabs team has been working since 2016 to bring universal solutions to the world. With the DLT system, it further disrupts the machine economy by creating real-world use cases.",
