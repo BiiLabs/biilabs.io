@@ -80,7 +80,7 @@
   "faq-identity-description-1": "TangleID is a secure, easy-to-use system for self-sovereign identity, built on IOTA/Tangle. An identity can be cryptographically linked to off-chain data stores. Each identity is capable of storing the hash of an attributed data blob, whether on Google Cloud, Azure, AWS, Dropbox, etc., which is where all data associated with that identity is securely stored.",
   "faq-identity-description-2": "Identities are capable of updating this file themselves, such as adding a profile photo or a friend, or they can also grant others temporary permission to read or write specific files. Since they can interact with Tangle network, TangleID identities can also control digital assets such as cryptocurrencies or other tokenized assets.",
 
-  "partner-title": "Trusted By",
+  "partner-title": "Partners",
   "partner-description": "BiiLabs is trusted by these partners:",
 
   "footer-about-title": "About Us",
