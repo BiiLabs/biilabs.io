@@ -29,7 +29,6 @@
   "service-scalability-title": "Scalability in Business",
   "service-scalability-description": "BiiLabs enables micro- and nano-transactions to be recorded with the application of distributed ledger technology and provides developers with an innovative set of tools for IoT applications.",
 
-  "service-alfred-title": "BiiLabs Alfred free edition on AWS Marketplace now!",
   "service-alfred-description-p1": "Alfred API service is a software tool for corporations to establish Proof-of-Existence (PoE). Alfred is supported by BiiLabs PoW accelerator and will further enable the Decentralized Identifiers (DIDs) service.",
   "service-alfred-description-p2": "Despite the digitalization as universal trend, the process of authentication and verification is still costly and time-consuming. In particular, data nowadays gets easier to be transmitted, which implies the increasing risks of making errors and the complexity of verification.",
   "service-alfred-description-p3": "For instance, a headhunter is likely to spend a couple of hours contacting as well as persuading the academic institute to disclose an entity's limited information. Otherwise, the accuracy of an applicant's certificates is hardly proved. Another example is about the multisensor. A sensor needs to detect and collect multiple environmental figures; hence, whether the existence or the accuracy of data could be complicated.",
