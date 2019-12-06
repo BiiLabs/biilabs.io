@@ -56,6 +56,8 @@
   "story-water-description": "BiiLabs Sentinel Appliance は、企業や政府が行う水質データのモニタリングを、分散型台帳 技術を用いることで可能にしています。このシステムを採用することで、誰もが水質データ にアクセスでき、そのデータが改ざんされることはありません。",
   "story-ubi-title": "利用ベース自動車保険（UBI）",
   "story-ubi-description": "BiiLabs Alfredを応用する事で、利用ベース自動車保険（UBI）のシステムにブロックチェーン技術を採用しました。これにより、データの存在証明（PoE）や信頼性の担保、また人間の介在が不必要なシステムの構築を可能にしました。",
+  "story-vending-title": "Vending Upgrade Kit",
+  "story-vending-description": "Introducing BiiLabs’ decentralized identifiers (DIDs) into Yallvend’s Vending Upgrade Kit (VUK), enable ID authentications applying to vending products with age limits as well as upgrading existing systems.",
 
   "team-title": "メンバー",
   "team-description": "BiiLabsのメンバーは、世界中の人々にあらゆるソリューションを届けるため、2016年から活動しています。分散型台帳技術を応用し、活用事例を増やすことで、マシンエコノミーにイノベーションを起こします。",
