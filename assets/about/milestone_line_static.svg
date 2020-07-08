@@ -17,13 +17,13 @@
         }
     </style>
     <g transform="translate(0, 560)">
-        <image class="years-img" href="milestone-2017.png" x="520"/>
+        <image class="years-img" href="milestone-2017.svg" x="520"/>
         <text x="600" y="-50" dominant-baseline="baseline" text-anchor="middle" class="year">2017</text>
-        <image class="years-img" href="milestone-2018.png" x="825"/>
+        <image class="years-img" href="milestone-2018.svg" x="825"/>
         <text x="905" y="210" dominant-baseline="hanging" text-anchor="middle" class="year">2018</text>
-        <image class="years-img" href="milestone-2019.png" x="1160"/>
+        <image class="years-img" href="milestone-2019.svg" x="1160"/>
         <text x="1240" y="-50" dominant-baseline="baseline" text-anchor="middle" class="year">1H 2019</text>
-        <image class="years-img" href="milestone-2019-2.png" x="1410"/>
+        <image class="years-img" href="milestone-2019-2.svg" x="1410"/>
         <text x="1490" y="210" dominant-baseline="hanging" text-anchor="middle" class="year">2H 2019</text>
     </g>
     <g transform="translate(0, 350)">
