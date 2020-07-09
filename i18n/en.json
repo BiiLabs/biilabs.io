@@ -11,10 +11,15 @@
 
 
   "index-news": "Latest News",
+  "index-news-title-2": "BiiLabs Partners with Kdan Mobile to Enable DottedSign e-Signature Solution with Reinforced Authentication through Blockchain",
+  "index-news-summary-2": "BiiLabs collaborates with Kdan Mobile to introduce the integration of Distributed Ledger Technology (DLT) into its DottedSign solution, enabling a simplified and trackable signature process, as well as ensuring the security of the authentication.",
+  "index-news-link-2": "https://medium.com/biilabs/biilabs-partners-with-kdan-mobile-to-enable-dottedsign-e-signature-solution-with-reinforced-aa5220d3a6f9",
   "index-news-title-1": "BiiLabs Together with Eclipse Foundation, IOTA Foundation and Leading Companies Unite to Support the Launch of Tangle EE Working Group",
   "index-news-summary-1": "BiiLabs announced that it is working with Eclipse Foundation, IOTA Foundation, together with industry leading players and academia to support the launch of the Tangle EE Working Group for the development and commercialization of IOTA-based data solutions.",
-  "index-news-title-2": "BiiLabs and Yallvend Team Up to Implement Blockchain into the World’s First Vending Upgrade Kit, Enabling Secure and Reliable ID Authentication",
-  "index-news-summary-2": "BiiLabs and Yallvend today announced the collaboration by introducing BiiLabs’ decentralized identifiers (DIDs) into Yallvend’s Vending Upgrade Kit (VUK). The solution unifies the secure ID authentication system, which can be applied in the vending machines that sell products with age limits, as well as upgrading existing systems.",
+  "index-news-link-1": "https://medium.com/biilabs/biilabs-together-with-eclipse-foundation-iota-foundation-and-leading-companies-unite-to-support-a5c3c4e127db",
+  "index-news-title-0": "BiiLabs and Yallvend Team Up to Implement Blockchain into the World’s First Vending Upgrade Kit, Enabling Secure and Reliable ID Authentication",
+  "index-news-summary-0": "BiiLabs and Yallvend today announced the collaboration by introducing BiiLabs’ decentralized identifiers (DIDs) into Yallvend’s Vending Upgrade Kit (VUK). The solution unifies the secure ID authentication system, which can be applied in the vending machines that sell products with age limits, as well as upgrading existing systems.",
+  "index-news-link-0": "https://medium.com/biilabs/biilabs-and-yallvend-team-up-to-implement-blockchain-into-the-worlds-first-vending-upgrade-kit-a3cea3c215ee",
   "index-details": "More...",
 
 
