@@ -6,7 +6,7 @@
 		.st1{ stroke:#2b9bd6 }
 		.years-img{ height:160px;width:160px; }
 		text{
-			font-family:&quot;Arial&quot;,&quot;Noto Sans TC&quot;,&quot;Microsoft JhengHei&quot;,sans-serif;
+            font-family: "Yu Gothic", "YuGothic", Arial, "Noto Sans TC", "Microsoft JhengHei", sans-serif;
 			font-size: 1.8em;
 			fill: #fff;
 		}

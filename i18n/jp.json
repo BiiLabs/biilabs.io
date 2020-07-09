@@ -11,14 +11,19 @@
 
 
   "index-news": "最新ニュース",
-  "index-news-title-1": "あなたは時間しばしばある邁進者という訳の後をするまいん。とにかく前より攻撃人は単にある学習でたくほどを取り巻かているたにも病気したでしで、それほどにはしますなたで。",
-  "index-news-summary-1": "あなたは時間しばしばある邁進者という訳の後をするまいん。とにかく前より攻撃人は単にある学習でたくほどを取り巻かているたにも病気したでしで、それほどにはしますなたで。",
-  "index-news-title-2": "あなたは時間しばしばある邁進者という訳の後をするまいん。とにかく前より攻撃人は単にある学習でたくほどを取り巻かているたにも病気したでしで、それほどにはしますなたで。",
-  "index-news-summary-2": "あなたは時間しばしばある邁進者という訳の後をするまいん。とにかく前より攻撃人は単にある学習でたくほどを取り巻かているたにも病気したでしで、それほどにはしますなたで。",
+  "index-news-title-2": "BiiLabsとKdan Mobileが、ブロックチェーン技術を応用したDottedSign電子署名システムを共同発表",
+  "index-news-summary-2": "本日、Blockchain-as-a-Service(BaaS)を提供するBiiLabsは、ブロックチェーン技術を統合したDottedSign電子署名システムをKdan Mobileと共同発表いたします。電子署名システムにおける認証セキュリティを高め、かつ署名プロセスをトラッキング・簡略化することが出来ます。",
+  "index-news-link-2": "https://medium.com/biilabs/biilabsとkdan-mobileが-ブロックチェーン技術を応用したdottedsign電子署名システムを共同発表-c3749596e0df",
+  "index-news-title-1": "BiiLabs・Eclipse Foundation・IOTA Foundationおよび主要企業が、Tangle EEワーキンググループを創立",
+  "index-news-summary-1": "本日、Blockchain-as-a-Service(BaaS)を提供するBiiLabsは、Eclipse Foundation・IOTA Foundation・産業界の主要企業・学術機関と共に、Tangle EEワーキンググループの立ち上げを発表致します。このワーキンググループでは、IOTAをベースにしたソリューションの開発と商業化を目的としています。",
+  "index-news-link-1": "https://medium.com/biilabs/biilabs-eclipse-foundation-iota-foundationおよび主要企業が-tangle-eeワーキンググループを創立-bcdc09ffae8c",
+  "index-news-title-0": "BiiLabsが、スマート自動販売機を手がけるYallvendと協業し、ブロックチェーンベースの分散型ID認証システム(DIDs)を統合",
+  "index-news-summary-0": "本日、Blockchain-as-a-Service（BaaS）を提供するBiiLabsは、スマート自動販売機の開発を手がけるYallvendとの協業を発表致します。この協業により、スマート自動販売機のモバイル決済システムに、非中央集権型のデジタルIDであるDecentralized Identifiers（DIDs）が組み込まれます。",
+  "index0news-link-0": "https://medium.com/biilabs/biilabsが-スマート自動販売機を手がけるyallvendと協業し-ブロックチェーンベースの分散型id認証システム-dids-を統合-728cfc959695",
   "index-details": "詳細",
 
 
-  "solutions-solution": "ソリューション",
+  "solutions-solution": "ソリューション", 
   "solutions-advantages": "BiiLabsのプロダクト",
   "solutions-1-title": "デジタル証明証",
   "solutions-1-subtitle": "複雑な管理体系",
