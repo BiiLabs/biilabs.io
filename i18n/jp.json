@@ -1,8 +1,10 @@
 {
   "nav-home": "ホーム",
+  "nav-about": "会社概要",    
   "nav-solution": "ソリューション",
   "nav-cases": "採用事例",
-  "nav-about": "会社概要",
+  "nav-tech": "技術",
+  "nav-contact": "お問い合わせ",
 
   "footer-recruit": "採用",
   "footer-media": "メディア",

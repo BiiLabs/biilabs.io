@@ -1,8 +1,10 @@
 {
   "nav-home": "首頁",
+  "nav-about": "關於我們",
   "nav-solution": "解決方案",
   "nav-cases": "應用案例",
-  "nav-about": "關於我們",
+  "nav-tech": "技術",
+  "nav-contact": "聯絡我們",
 
   "footer-recruit": "徵才訊息",
   "footer-media": "媒體",
