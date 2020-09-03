@@ -1,8 +1,10 @@
 {
   "nav-home": "ホーム",
+  "nav-about": "会社概要",    
   "nav-solution": "ソリューション",
   "nav-cases": "採用事例",
-  "nav-about": "会社概要",
+  "nav-tech": "技術",
+  "nav-contact": "お問い合わせ",
 
   "footer-recruit": "採用",
   "footer-media": "メディア",
@@ -113,5 +115,7 @@
   "about-contact-content": "お問い合わせ内容",
   "about-contact-send": "送信",
   "about-contact-address": "10F., No. 2, Sec. 3, Civic Blvd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
-  "about-contact-time": "月曜 ～ 金曜 10:00~17:00"
+  "about-contact-time": "月曜 ～ 金曜 10:00~17:00",
+  "about-contact-phone": "電話:",
+  "about-contact-phone-number": " +886-2-7717-9766"
 }
