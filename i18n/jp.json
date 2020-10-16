@@ -13,15 +13,18 @@
 
 
   "index-news": "最新ニュース",
-  "index-news-title-2": "BiiLabsとKdan Mobileが、ブロックチェーン技術を応用したDottedSign電子署名システムを共同発表",
-  "index-news-summary-2": "本日、Blockchain-as-a-Service(BaaS)を提供するBiiLabsは、ブロックチェーン技術を統合したDottedSign電子署名システムをKdan Mobileと共同発表いたします。電子署名システムにおける認証セキュリティを高め、かつ署名プロセスをトラッキング・簡略化することが出来ます。",
-  "index-news-link-2": "https://medium.com/biilabs/biilabsとkdan-mobileが-ブロックチェーン技術を応用したdottedsign電子署名システムを共同発表-c3749596e0df",
-  "index-news-title-1": "BiiLabs・Eclipse Foundation・IOTA Foundationおよび主要企業が、Tangle EEワーキンググループを創立",
-  "index-news-summary-1": "本日、Blockchain-as-a-Service(BaaS)を提供するBiiLabsは、Eclipse Foundation・IOTA Foundation・産業界の主要企業・学術機関と共に、Tangle EEワーキンググループの立ち上げを発表致します。このワーキンググループでは、IOTAをベースにしたソリューションの開発と商業化を目的としています。",
-  "index-news-link-1": "https://medium.com/biilabs/biilabs-eclipse-foundation-iota-foundationおよび主要企業が-tangle-eeワーキンググループを創立-bcdc09ffae8c",
-  "index-news-title-0": "BiiLabsが、スマート自動販売機を手がけるYallvendと協業し、ブロックチェーンベースの分散型ID認証システム(DIDs)を統合",
-  "index-news-summary-0": "本日、Blockchain-as-a-Service（BaaS）を提供するBiiLabsは、スマート自動販売機の開発を手がけるYallvendとの協業を発表致します。この協業により、スマート自動販売機のモバイル決済システムに、非中央集権型のデジタルIDであるDecentralized Identifiers（DIDs）が組み込まれます。",
-  "index0news-link-0": "https://medium.com/biilabs/biilabsが-スマート自動販売機を手がけるyallvendと協業し-ブロックチェーンベースの分散型id認証システム-dids-を統合-728cfc959695",
+  "index-news-title-3": "BiiLabsは、スマートモビリティ用ソフトウェアへのブロックチェーン技術の産業応用を進めるべく、MOBIへの参画を発表",
+  "index-news-summary-3": "本日、Blockchain-as-a-Service(BaaS)を提供するBiiLabsは、自動車メーカー・スタートアップ・モビリティ関連団体から成るコンソーシアム、Mobility Open Blockchain Initiative (MOBI)への参画を発表致します。",
+  "index-news-link-3": "https://medium.com/biilabs/biilabsは-スマートモビリティ用ソフトウェアへのブロックチェーン技術の産業応用を進めるべく-mobiへの参画を発表-cf92e0e8b653",
+  "index-news-title-2": "BiiLabsがスマートモビリティ向けに、クラウドファンディングとトークンエコノミーを統合するシステムを開発",
+  "index-news-summary-2": "本日、Blockchain-as-a-Service(BaaS)を開発するBiiLabsは、電動スクーター向け充電サービスを提供するYi Yuan Chargeとの協業を発表いたします。既存の決済システムに分散型台帳技術を（DLT）を応用することで、顧客からのサービス品質に関するリアルタイムフィードバックを可能にしました。",
+  "index-news-link-2": "https://medium.com/biilabs/biilabsがスマートモビリティ向けに-クラウドファンディングとトークンエコノミーを統合するシステムを開発-689870f0f1ff",
+  "index-news-title-1": "BiiLabsとKdan Mobileが、ブロックチェーン技術を応用したDottedSign電子署名システムを共同発表",
+  "index-news-summary-1": "本日、Blockchain-as-a-Service(BaaS)を提供するBiiLabsは、ブロックチェーン技術を統合したDottedSign電子署名システムをKdan Mobileと共同発表いたします。電子署名システムにおける認証セキュリティを高め、かつ署名プロセスをトラッキング・簡略化することが出来ます。",
+  "index-news-link-1": "https://medium.com/biilabs/biilabsとkdan-mobileが-ブロックチェーン技術を応用したdottedsign電子署名システムを共同発表-c3749596e0df",
+  "index-news-title-0": "BiiLabs・Eclipse Foundation・IOTA Foundationおよび主要企業が、Tangle EEワーキンググループを創立",
+  "index-news-summary-0": "本日、Blockchain-as-a-Service(BaaS)を提供するBiiLabsは、Eclipse Foundation・IOTA Foundation・産業界の主要企業・学術機関と共に、Tangle EEワーキンググループの立ち上げを発表致します。このワーキンググループでは、IOTAをベースにしたソリューションの開発と商業化を目的としています。",
+  "index-news-link-0": "https://medium.com/biilabs/biilabs-eclipse-foundation-iota-foundationおよび主要企業が-tangle-eeワーキンググループを創立-bcdc09ffae8c",
   "index-details": "詳細",
 
 

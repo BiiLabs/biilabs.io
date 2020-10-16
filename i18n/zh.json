@@ -13,15 +13,18 @@
 
 
   "index-news": "最新消息",
-  "index-news-title-2": "BiiLabs 與凱鈿行動科技合作為電子簽名服務導入區塊鏈技術，實現更安全的文件簽署流程",
-  "index-news-summary-2": "BiiLabs與凱鈿行動科技(Kdan Mobile) 合作，將分散式帳本技術 (Distributed Ledger Technology；DLT) 應用於電子簽名服務，實現簡便、可追蹤的線上簽名流程，並確保資料驗證安全無虞。",
-  "index-news-link-2": "https://medium.com/biilabs/biilabs-與凱鈿行動科技合作為電子簽名服務導入區塊鏈技術-實現更安全的文件簽署流程-86b8a7d395b2",
-  "index-news-title-1": "BiiLabs與Eclipse基金會、IOTA基金會及業界領導廠商 聯手成立Tangle EE工作小組",
-  "index-news-summary-1": "BiiLabs 宣布與 Eclipse 基金會、IOTA 基金會、業界領導廠商以及學術界合作，推動成立 Tangle EE 工作小組，以針對基於 IOTA 的資料解決方案進行開發並使其商業化。",
-  "index-news-link-1": "https://medium.com/biilabs/biilabs與eclipse基金會-iota基金會及業界領導廠商-聯手成立tangle-ee工作小組-7a811c8c0ac",
-  "index-news-title-0": "BiiLabs 與業安科技協力打造全球首創智慧販賣機快速升級模組 透過區塊鏈實現安全、可信的身份驗證",
-  "index-news-summary-0": "BiiLabs 與業安科技宣布雙方合作，將BiiLabs 去中心化身份識別技術導入業安販賣機升級模組，統一安全身份驗證系統，應用於須受購買年齡規範的販賣機上，協助其系統升級。",
-  "index-news-link-0": "https://medium.com/biilabs/biilabs-與業安科技協力打造全球首創智慧販賣機快速升級模組-透過區塊鏈實現安全-可信的身份驗證-ad6a7c9eca04",
+  "index-news-title-3": "BiiLabs 加入MOBI以支援業界於智慧出行應用採用區塊鏈技術",
+  "index-news-summary-3": "BiiLabs 宣布加入了由業界領導汽車製造商、科技新創公司以及其他車用業者組成的全球聯盟 Mobility Open Blockchain Initiative (MOBI)。",
+  "index-news-link-3": "https://medium.com/biilabs/biilabs-加入mobi以支援業界於智慧出行應用採用區塊鏈技術-f2bb5eb54ef9",
+  "index-news-title-2": "BiiLabs 區塊鏈應用落地，優化傳產商業模式，建構數位價值",
+  "index-news-summary-2": "BiiLabs 最新宣布與一元電力（中國充電服務大廠）合作，將分散式帳本技術（Distributed Ledger Technology；DLT）導入既有的支付機制，優化原有商業模式，及時獲取使用者資訊回饋。",
+  "index-news-link-2": "https://medium.com/biilabs/biilabs-區塊鏈應用落地-優化傳產商業模式-建構數位價值-21e3575d9042",
+  "index-news-title-1": "BiiLabs 與凱鈿行動科技合作為電子簽名服務導入區塊鏈技術，實現更安全的文件簽署流程",
+  "index-news-summary-1": "BiiLabs與凱鈿行動科技(Kdan Mobile) 合作，將分散式帳本技術 (Distributed Ledger Technology；DLT) 應用於電子簽名服務，實現簡便、可追蹤的線上簽名流程，並確保資料驗證安全無虞。",
+  "index-news-link-1": "https://medium.com/biilabs/biilabs-與凱鈿行動科技合作為電子簽名服務導入區塊鏈技術-實現更安全的文件簽署流程-86b8a7d395b2",
+  "index-news-title-0": "BiiLabs與Eclipse基金會、IOTA基金會及業界領導廠商 聯手成立Tangle EE工作小組",
+  "index-news-summary-0": "BiiLabs 宣布與 Eclipse 基金會、IOTA 基金會、業界領導廠商以及學術界合作，推動成立 Tangle EE 工作小組，以針對基於 IOTA 的資料解決方案進行開發並使其商業化。",
+  "index-news-link-0": "https://medium.com/biilabs/biilabs與eclipse基金會-iota基金會及業界領導廠商-聯手成立tangle-ee工作小組-7a811c8c0ac",
   "index-details": "詳細內容",
   
 
