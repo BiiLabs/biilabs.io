@@ -1,7 +1,8 @@
 {
   "nav-home": "Home",
   "nav-about": "About Us",
-  "nav-solution": "Solutions",
+  "nav-solution": "Products",
+  "nav-products": "Products",
   "nav-cases": "Cases",
   "nav-tech": "Tech Blog",
   "nav-contact": "Contact Us",
@@ -82,6 +83,12 @@
   "cases-5-advantages-5": "Reduced costs by removing human intervention",
   "cases-5-advantages-6": "Encourage safe driving and reduce insurer repair costs",
 
+  "products-contact-name": "Name",
+  "products-contact-phone": "Phone",
+  "products-contact-email": "Email",
+  "products-contact-interest": "Products you are interested in",
+  "products-contact-content": "Message",
+  "products-contact-send": "Send",
 
   "about-slogon": "BiiLabs is dedicated in developing distributed ledger technologies to overcome the challenges in the Internet of Everything era, including smart mobility and energy management, and more. \nIts core technologies assist the digital transformation of various industries, and to solve critical issues such as trust, security, growth and efficiency for our clients. \nBiiLabs aims to be a leading technology provider in the Internet of Everything world.",
   "about-milestone-2017": "<tspan x='0' dy='.2em'>Company Registered</tspan>",

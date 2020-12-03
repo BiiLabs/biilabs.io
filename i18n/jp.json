@@ -1,7 +1,8 @@
 {
   "nav-home": "ホーム",
   "nav-about": "会社概要",    
-  "nav-solution": "ソリューション",
+  "nav-solution": "プロダクション",
+  "nav-products": "プロダクション",
   "nav-cases": "採用事例",
   "nav-tech": "技術",
   "nav-contact": "お問い合わせ",
@@ -82,6 +83,12 @@
   "cases-5-advantages-5": "プロセスオートメーションによるコストの削減",
   "cases-5-advantages-6": "リスク算定の精度向上",
 
+  "products-contact-name": "名前",
+  "products-contact-phone": "電話",
+  "products-contact-email": "メール",
+  "products-contact-interest": "興味",
+  "products-contact-content": "お問い合わせ内容",
+  "products-contact-send": "送信",
 
   "about-slogon": "BiiLabsはIoEの時代の到来を見据え、スマートシティ・エネルギー管理等における課題に対し、分散型台帳技術を開発しています。私たちの根幹技術は、あらゆる産業のデジタル化をサポートし、顧客が抱える信頼性・セキュリティ・ 成長性・効率性にかかる課題を解決します。BiiLabsは来たるIoE時代を、分散型台帳技術で牽引していきます。",
   "about-milestone-2017": "<tspan x='0' dy='.2em'>創業</tspan>",

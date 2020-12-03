@@ -1,7 +1,8 @@
 {
   "nav-home": "首頁",
   "nav-about": "關於我們",
-  "nav-solution": "解決方案",
+  "nav-solution": "產品",
+  "nav-products": "產品",
   "nav-cases": "應用案例",
   "nav-tech": "技術",
   "nav-contact": "聯絡我們",
@@ -81,6 +82,13 @@
   "cases-5-advantages-4": "通過機器對機器（M2M）機制提高了索賠/補償效率",
   "cases-5-advantages-5": "消除人工干預以降低成本",
   "cases-5-advantages-6": "鼓勵安全駕駛並降低保險公司的維修成本",
+
+  "products-contact-name": "姓名",
+  "products-contact-phone": "電話",
+  "products-contact-email": "電子信箱",
+  "products-contact-interest": "您感興趣的產品",
+  "products-contact-content": "內容",
+  "products-contact-send": "送出",
 
 
   "about-slogon": "BiiLabs 致力於使用分散式帳本技術解決萬物聯網帶來的挑戰，涵蓋智慧城市與能源管理等領域，其核心技術協助各產業之數位轉型，進而解決在客戶應用中的信任，安全，成長，效率等關鍵問題。BiiLabs 期許成為萬物聯網世代的關鍵技術方案提供者。",
