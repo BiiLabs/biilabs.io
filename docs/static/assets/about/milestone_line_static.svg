@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)-->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2122 1210" style="enable-background:new 0 0 2122 555" xml:space="preserve" width="100%">
+    <style type="text/css">
+        .st0,.st1{ fill:none;stroke:#7fceff;stroke-width:3;stroke-miterlimit:10 }
+		.st1{ stroke:#2b9bd6 }
+		.years-img{ height:160px;width:160px; }
+		text{
+			font-size: 1.8em;
+			fill: #fff;
+		}
+        .year {
+            opacity: 1;
+            font-size: 3em;
+            font-weight: 600;
+        }
+    </style>
+    <g transform="translate(0, 560)">
+        <image class="years-img" href="milestone-2017.svg" x="520"/>
+        <text x="600" y="-50" dominant-baseline="baseline" text-anchor="middle" class="year">2017</text>
+        <image class="years-img" href="milestone-2018.svg" x="825"/>
+        <text x="905" y="210" dominant-baseline="hanging" text-anchor="middle" class="year">2018</text>
+        <image class="years-img" href="milestone-2019.svg" x="1160"/>
+        <text x="1240" y="-50" dominant-baseline="baseline" text-anchor="middle" class="year">1H 2019</text>
+        <image class="years-img" href="milestone-2019-2.svg" x="1410"/>
+        <text x="1490" y="210" dominant-baseline="hanging" text-anchor="middle" class="year">2H 2019</text>
+    </g>
+    <g transform="translate(0, 350)">
+        <line class="st0" x1="13.54" y1="284.5" x2="485.86" y2="284.5"/>
+        <path class="st0" d="M483.46,284.5c0,0-11.01,114.92,105.52,114.92v145.67"/>
+    </g>
+    <g transform="translate(600, 980)" width="500" class="bg">
+        <line 
+            x1="-200"
+            y1="0"
+            x2="200"
+            y2="0"
+			stroke="rgb(3, 100, 183)"
+            stroke-width="170"
+        />
+        <text dominant-baseline="baseline" text-anchor="middle" class="fade-in" data-i18n="about-milestone-2017">
+			<tspan x="0" dy=".2em">公司註冊</tspan>
+        </text>
+    </g>
+    <g transform="translate(0, 350)">
+        <path class="st1" d="M796.8,287.83c0,0-10.74-108.66,105.8-108.66V9.65"/>
+        <path class="st1" d="M794.82,284.5h-90.73c0,0,11.01,114.92-105.52,114.92"/>
+    </g>
+    
+    <g transform="translate(905, 290)" width="500" class="bg">
+        <line 
+            x1="-200"
+            y1="0"
+            x2="200"
+            y2="0"
+			stroke="rgb(3, 100, 183)"
+            stroke-width="170"
+        />
+        <text dominant-baseline="baseline" text-anchor="middle" class="fade-in" data-i18n="about-milestone-2018">
+			<tspan x="0" dy=".2em">台灣公司開業</tspan>
+        </text>
+    </g>
+    <g transform="translate(0, 350)">
+        <path class="st0" d="M1128.4,294.09c0,0-10.74,105.32,105.8,105.32v145.67"/>
+        <path class="st0" d="M1128.4,294.09h-110.69c0,0,11.01-114.92-105.52-114.92"/>
+    </g>
+    <g transform="translate(1040, 980)" width="500" class="bg">
+        <line 
+            x1="0"
+            y1="70"
+            x2="400"
+            y2="70"
+			stroke="rgb(3, 100, 183)"
+            stroke-width="310"
+        />
+        <text transform="translate(30, -40)" dominant-baseline="baseline" text-anchor="start" class="fade-in" data-i18n="about-milestone-2019-1h">
+			<tspan x='0' dy='.2em'>新創融資(天使輪)：</tspan> 
+            <tspan x='0' dy='1.3em'>Arm IoT Capital和ParticleX</tspan>
+            <tspan x='0' dy='3em'>宣布含有TransIoT的</tspan> 
+            <tspan x='0' dy='1.3em'>UBI用例</tspan>
+        </text>
+    </g>
+    <g transform="translate(0, 350)">
+        <path class="st0" d="M2105.04,294.09h-502.52c0,0,11.01-114.92-105.52-114.92"/>
+    </g>
+    <g transform="translate(0, 350)">
+        <path class="st1" d="M1380.11,287.83c0,0-10.74-108.66,105.8-108.66V9.65"/>
+        <path class="st1" d="M1379.85,284.5h-32.69c0,0,11.01,114.92-105.52,114.92"/>
+    </g>
+    <g transform="translate(1286, 0)" class="bg">
+        <line 
+            x1="0"
+            y1="0"
+            x2="400"
+            y2="0"
+			stroke="rgb(3, 100, 183)"
+            stroke-width="760"
+        />
+
+        <text transform="translate(30, 50)" dominant-baseline="baseline" text-anchor="start" class="fade-in" data-i18n="about-milestone-2019-2h">
+            <tspan x="0" dy=".2em">美國公司開業</tspan> 
+            <tspan x="0" dy="3em">加入INATBA，Eclipse</tspan> 
+            <tspan x="0" dy="1.3em">Foundation和eCl @ ss</tspan> 
+            <tspan x="0" dy="3em">宣布與Yallvend合作</tspan> 
+            <tspan x="0" dy="1.3em">自動販賣機套件升級</tspan> 
+        </text>
+    </g>
+</svg>

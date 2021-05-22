@@ -1,0 +1,213 @@
+@import "./vars.scss";
+
+
+#section-banner {
+    background-color: $theme-color;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    #banner-canvas {
+        // border: 1px double black;
+        // width: 100%;
+        // height: 500px;
+    }
+
+}
+
+#section-slogon {
+    background-color: $theme-dark-color;
+    padding-top: 85px;
+    padding-bottom: 85px;
+
+    .slogon-img {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 50px;
+        @include lg() {
+            margin-left: initial;
+            margin-bottom: 0px;
+        }
+    }
+    .slogon-text {
+        margin-left: auto;
+        color: white;
+        white-space: pre-line;
+        line-height: 2.2em;
+    }
+}
+
+#section-milestone {
+    background-color: $theme-color;
+    padding-top: 160px;
+    padding-bottom: 160px;
+
+    #milestone-svg {
+        margin-top: -150px;
+    }
+
+    .milestone-container {
+        // align-items: center;
+        // padding-bottom: 30px;
+        min-height: 200px;
+    }
+    .milestone-year {
+        color: white;
+        font-size: 24px;
+        font-weight: 600;
+    }
+    .milestone-content {
+        color: white;
+        white-space: pre-line;
+    }
+}
+
+#section-team {
+    background-color: $theme-dark-color;
+    padding-top: 160px;
+    padding-bottom: 160px;
+
+    .team-img-container{
+        padding: 16px 32px;
+        @include sm(){
+            padding: 32px 48px;
+        }
+        @include md(){
+            padding: 48px 48px;
+        }
+        @include lg(){
+            padding: 48px 64px;
+        }
+        .team-img-top{
+            width: 200px;
+        }
+        .team-img{
+            width: 120%;
+        }
+    }
+    .team-title{
+        color: white;
+        font-size: 24px;
+    }
+
+    .team-text{
+        //margin-left: auto;
+        //line-height: 30px;
+        color: white;
+    }
+
+}
+
+#section-cooperates {
+    background-color: $theme-color;
+    padding-top: 160px;
+    padding-bottom: 160px;
+
+    .logo-animate-container {
+        padding: 16px 8vw;
+        @include sm() {
+            padding: 32px 8vw;
+        }
+        @include md() {
+            padding: 48px 5vw;
+        }
+        @include lg() {
+            padding: 48px 3vw;
+        }
+        @include xl() {
+            padding: 48px 3vw;
+        }
+
+        .logo-animate {
+            width: 100%;
+            -webkit-filter: brightness(0) invert(1);
+            filter: brightness(0) invert(1);
+
+            @keyframes toColor {
+                0% {
+                    -webkit-filter: brightness(0) invert(1);
+                    filter: brightness(0) invert(1);
+                }
+                100% {
+                    -webkit-filter: brightness(1) invert(0);
+                    filter: brightness(1) invert(0);
+                }
+            }
+
+            &:hover {
+                animation: toColor .8s;  // seems not so good
+                -webkit-filter: brightness(1) invert(0);
+                filter: brightness(1) invert(0);
+            }
+        }
+    }
+}
+
+#section-contact {
+    background-color: $theme-dark-color;
+    padding-top: 160px;
+    padding-bottom: 160px;
+    
+    .form-wrapper {
+        background-color: white;
+        padding: 32px 28px;
+        @include sm-down() {
+            padding: 32px 12px;
+        }
+    }
+
+    .map-text{
+        font-size: 16px;
+        font-weight: bold;
+        color: $theme-dark-color;
+    }
+    .map-input-column{
+        background-color: $theme-dark-color;
+        font-size: 16px;
+        color: white;
+        width: 100%;
+        padding: 4px 8px;
+    }
+    .map-submit-btn{
+        background-color: $theme-dark-color;
+        color: white;
+        width: 120px;
+        padding: .25rem .75rem;
+        float: right;
+        text-align: center;
+        border: none;
+
+    }
+    .map-icon{
+        width: 64px;
+        height: 64px;
+    }
+
+}
+
+#milestone-svg {
+    .st0, .st1 {
+        fill: none;
+        stroke: #7fceff;
+        stroke-width: 3;
+        stroke-miterlimit: 10
+    }
+
+    .st1 {
+        stroke: #2b9bd6
+    }
+
+    .years-img {
+        height: 160px;
+        width: 160px;
+    }
+
+    text {
+        font-size: 1.8em;
+        fill: #fff;
+    }
+
+    .year {
+        opacity: 1;
+        font-size: 3em;
+        font-weight: 600;
+    }
+}

@@ -1,0 +1,121 @@
+@import "./vars.scss";
+
+#section-banner {
+    background-color: $theme-color;
+    padding-top: 60px;
+    padding-bottom: 120px;
+
+    #banner-container {
+        $container-height: 500px;
+
+        position: relative;
+        overflow: hidden;
+        height: $container-height;
+
+        @mixin overlay($height) {
+            // usage: @include overlay(XXXpx);
+            // 讓圖層能重疊，重疊順序目前用html dom的順序來決定，若變更複雜再使用z-index
+            position: absolute;
+            top: ($container-height / 2 - $height / 2);
+            height: $height;
+            left: 50%;
+            margin-left: -1 * ($height / 2);
+        }
+
+        canvas#banner-constellationel {
+            position: absolute;
+            top: 0;
+            width: 120%;
+            height: $container-height;
+            margin-left: -10%;
+        }
+        #banner-earth {
+            @include overlay($container-height);
+        }
+
+        #banner-logo {
+            @include overlay(200px);
+        }
+    }
+}
+
+#section-latest-news {
+    background-color: $theme-color;
+    padding-bottom: 180px;
+
+    .autoplay {
+        .slick-track {
+            display: flex !important;
+        }
+
+        .slick-slide {
+            height: inherit !important;
+        }
+        .slick-slide > * {
+            height: 100%;
+        }
+    }
+
+    .first-news {
+        background-color: white;
+        
+        @include lg-down() {
+            padding: 32px;
+            .news-container {
+                margin-top: 30px;
+            }
+            &:first-child {
+                margin-bottom: 30px;
+            }
+        }
+
+        @include lg() {
+            width: 100%;
+            padding: 32px 80px 32px 0px;
+
+            .news-container {
+                margin-left: auto;
+            }
+        }
+    }
+
+    .news-card {
+        border-radius: 0px;
+        border: none;
+        .news-container {
+            margin: 32px;
+        }
+    }
+
+    .news-img {
+        width: 100%;
+    }
+    .news-title {
+        color: $theme-color;
+        font-weight: 600;
+        // line-height: 2em;
+        padding-bottom: 15px;
+        border-bottom: 2px solid $theme-color;
+    }
+    .news-summary {
+        line-height: 1.2rem;
+    }
+    .news-link {
+        display: block;
+        background-color: $theme-color;
+        color: white !important;
+        // text-decoration: none!important;
+        // width: 100%;
+        text-align: center;
+        padding: 4px 16px;
+    }
+
+    .card-columns {
+        @include sm() {
+            column-count: 2;
+        }
+        @include md() {
+            column-count: 3;
+        }
+    }
+}

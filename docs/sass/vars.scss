@@ -1,0 +1,56 @@
+$theme-color: #204b7e;
+$theme-dark-color: #0c3766;
+
+$sm-width: 576px;
+$md-width: 768px;
+$lg-width: 992px;
+$xl-width: 1200px;
+
+@mixin sm-down() {
+    // active while width < sm-width
+    @media all and(max-width: $sm-width) {
+        @content;
+    }
+}
+@mixin sm() {
+    // active while width > sm-width
+    @media all and(min-width: $sm-width) {
+        @content;
+    }
+}
+@mixin md-down() {
+    // active while width < md-width
+    @media all and(max-width: $md-width) {
+        @content;
+    }
+}
+@mixin md() {
+    // active while width > md-width
+    @media all and(min-width: $md-width) {
+        @content;
+    }
+}
+@mixin lg-down() {
+    // active while width < lg-width
+    @media all and(max-width: $lg-width) {
+        @content;
+    }
+}
+@mixin lg() {
+    // active while width > lg-width
+    @media all and(min-width: $lg-width) {
+        @content;
+    }
+}
+@mixin xl-down() {
+    // active while width < xl-width
+    @media all and(max-width: $xl-width) {
+        @content;
+    }
+}
+@mixin xl() {
+    // active while width > xl-width
+    @media all and(min-width: $xl-width) {
+        @content;
+    }
+}

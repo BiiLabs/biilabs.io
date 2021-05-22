@@ -1,0 +1,212 @@
+@import "./vars.scss";
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap");
+
+body {
+    // font-family: "Helvetica", "Arial", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+      
+    font-family: Arial, "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+
+    
+    
+    // text-align: justify !important;
+    // text-justify:inter-ideograph !important;
+}
+
+body.jp-font {
+    font-family: "Yu Gothic", "YuGothic";
+}
+
+header {
+    background-color: $theme-color;
+}
+
+header {
+    .navbar-brand img {
+        height: 30px;
+        @include sm() {
+            display: none;
+        }
+    }
+    .nav-link {
+        color: white !important;
+        margin-left: 16px;
+        margin-right: 16px;
+        &.active {
+            color: rgb(41, 179, 235) !important; // to-check
+        }
+        &:hover {
+            color: #9dddf6 !important;
+        }
+    }
+    @mixin lang-selector {
+        background-color: white;
+        border-radius: 50%;
+        border: none;
+        height: 60px;
+        width: 60px;
+        color: $theme-color;
+        word-break: keep-all;
+        &:not([disabled]):hover {
+            background-color: rgb(41, 179, 235) !important;
+        }
+        &:focus {
+            outline: none;
+        }
+    }
+    .lang-selector-dropdown {
+        .lang-selector {
+            padding: 0;
+            @include lang-selector;
+            &::after {
+                content: none;
+            }
+        }
+        .switch-locale {
+            @include lang-selector;
+            padding: 0px;
+            text-align: center;
+            float: right;
+            margin-bottom: 15px;
+
+            @include sm-down() {
+                margin-right: 15px;
+                margin-bottom: 0px;
+            }
+        }
+
+        .dropdown-menu {
+            background-color: transparent;
+            border: none;
+            text-align: center;
+
+            -webkit-transition: all 0.3s;
+            -moz-transition: all 0.3s;
+            -ms-transition: all 0.3s;
+            -o-transition: all 0.3s;
+            transition: all 0.3s;
+
+            max-height: 0;
+            display: block;
+            overflow: hidden;
+            opacity: 0;
+            visibility: hidden;
+
+            @include sm-down() {
+                padding: 0px;
+                margin: 0px;
+                float: right;
+                li {
+                    display: table-cell;
+                }
+            }
+        }
+
+        &.show .dropdown-menu {
+            max-height: 300px;
+            opacity: 1;
+            visibility: visible;
+        }
+    }
+}
+
+footer {
+    border-top: 1px solid $theme-color; // for dev
+
+    background-color: white;
+    // padding-left: 48px;
+    // padding-right: 48px;
+    padding-top: 32px;
+    padding-bottom: 4px;
+
+    .footer-link {
+        // margin-bottom: 0;
+        color: $theme-color;
+        font-weight: 500;
+    }
+
+    .social-links-container {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 1rem;
+        @include lg() {
+            margin-left: 0;
+            margin-right: 0;
+            margin-top: 0;
+        }
+    }
+    .social-links {
+        min-width: 48px;    // for IE
+        font-size: 32px;
+        padding-left: 8px;
+        padding-right: 8px;
+        color: $theme-color;
+        &:hover {
+            text-decoration: none;
+            color: #29b3eb;
+        }
+    }
+    // .subscribe-input {
+    //     margin-top: 8px;
+
+    //     width: 100%;
+    //     border: none;
+    //     border-radius: 0px;
+    //     background-color: $theme-color !important;
+    //     color: white !important;
+    //     &::placeholder {
+    //         color: white !important;
+    //     }
+    // }
+
+    .copy-right {
+        font-size: 70%;
+        margin-top: 32px;
+        text-align: center;
+        color: $theme-color;
+    }
+}
+
+.back-to-top-btn {
+
+    position: fixed;
+    z-index: 100;
+    right: 25px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 0.2s;
+
+    &.show {
+        bottom: 25px;
+        opacity: 1;
+        transition: all 0.2s;
+    }
+
+    i {
+        font-size: 2.25rem;
+        color: #a3c6d1;
+    }
+}
+
+.text-theme {
+    color: $theme-color;
+}
+
+.section-title {
+    color: white;
+    font-weight: 600;
+    font-size: 28px;
+    &:before {
+        content: "";
+        margin-right: 16px;
+        border-left: 4px solid white;
+    }
+}
+
+.thin-container {
+    @include lg() {
+        max-width: 720px !important;
+    }
+    @include xl() {
+        max-width: 1080px !important;
+    }
+}
